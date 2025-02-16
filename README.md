@@ -1,16 +1,19 @@
-## Hi there 👋
+## ¡Hola! 👋  
 
-<!--
-**Code-Crypt0/Code-Crypt0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Acerca de mí  
+🚀 Desarrollador en formación, apasionado por la tecnología, el desarrollo web y la seguridad informática.  
+💡 Actualmente aprendiendo y mejorando mis habilidades en **JavaScript, HTML, CSS, PHP, MySQL** y frameworks como **Bootstrap**.  
+🔍 También tengo conocimientos en **Arduino, Kotlin (Android Studio)** y auditorías de seguridad con **Kali Linux**.  
 
-Here are some ideas to get you started:
+### 💻 En qué estoy trabajando  
+📂 En mi perfil encontrarás proyectos de desarrollo web, scripts de automatización, análisis de datos y soluciones de seguridad.  
+⚙️ Por el momento, algunos proyectos están en desarrollo, pero pronto los iré publicando.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Aprendiendo y creciendo  
+📖 Explorando nuevas tecnologías y herramientas para mejorar mis habilidades.  
+💬 Abierto a colaboraciones y siempre dispuesto a aprender algo nuevo.  
+
+### 📫 Cómo contactarme  
+📩 Puedes contactarme en **luisitprivt@gmail.com**.  
+
+⚡ _Siempre en busca de nuevos retos y oportunidades para crecer._  
