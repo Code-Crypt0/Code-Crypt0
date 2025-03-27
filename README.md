@@ -2,11 +2,11 @@
 
 ### 👨‍💻 Acerca de mí  
 🚀 Desarrollador en formación, apasionado por la tecnología, el desarrollo web y la seguridad informática.  
-💡 Actualmente aprendiendo y mejorando mis habilidades en **JavaScript, HTML, CSS, PHP, MySQL** y frameworks como **Bootstrap**.  
-🔍 También tengo conocimientos en **Arduino, Kotlin (Android Studio)** y auditorías de seguridad con **Kali Linux**.  
+💡 Actualmente aprendiendo y mejorando mis habilidades en **Java, JavaScript, HTML, CSS, PHP, MySQL** y frameworks como **Bootstrap**.  
+🔍 También tengo conocimientos en **Arduino, Kotlin (Android Studio)** y un poco de auditorías de seguridad con **Kali Linux**.  
 
 ### 💻 En qué estoy trabajando  
-📂 En mi perfil encontrarás proyectos de desarrollo web, scripts de automatización, análisis de datos y soluciones de seguridad.  
+📂 En mi perfil encontrarás proyectos de desarrollo web, scripts de automatización y soluciones de seguridad.  
 ⚙️ Por el momento, algunos proyectos están en desarrollo, pero pronto los iré publicando.  
 
 ### 🌱 Aprendiendo y creciendo  
