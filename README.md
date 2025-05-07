@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Acerca de mí  
 🚀 Desarrollador en formación, apasionado por la tecnología, el desarrollo web y la seguridad informática.  
-💡 Actualmente aprendiendo y mejorando mis habilidades en **Java, JavaScript, HTML, CSS, PHP, MySQL** y frameworks como **Bootstrap**.  
+💡 Actualmente aprendiendo y mejorando mis habilidades en **Java, JavaScript, HTML, CSS, PHP, MySQL, Dart** y frameworks como **Bootstrap y Flutter**.  
 🔍 También tengo conocimientos en **Arduino, Kotlin (Android Studio)** y un poco de auditorías de seguridad con **Kali Linux**.  
 
 ### 💻 En qué estoy trabajando  
